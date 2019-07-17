@@ -1,0 +1,17 @@
+Programacion de clases(Repaso):
+
+Trabajando con C#
+
+
+1.POO--------> Resolver problema, ¿Cual es el número primo 388?---- Tarea (El numero primo de be devolver hasta 1'):1.)Primo 2.)Par/Impar 3.) Equivalente numero Romano, 
+
+				4.)Escribir el numero en letra   --- En POO
+
+
+2.HTML + JS + CSS
+
+3. DB
+
+4.Webb APP - API
+
+5. GIT
